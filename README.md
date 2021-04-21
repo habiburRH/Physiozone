@@ -1,6 +1,6 @@
-# Getting Started with Abid Nuri
+# Getting Started with Habibur Rahman
 
-This Barber Shop Project [Not Yet Updated](https://github.com/facebook/create-react-app).
+This physiozone Project [Not Yet Updated](https://github.com/facebook/create-react-app).
 
 ## Available Feature
 1. Full Admin Panel, Customer Panel
