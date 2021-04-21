@@ -18,7 +18,7 @@ const Comment = () => {
         };
         // console.log(eventData)
 
-        const url =`http://localhost:5000/comment`
+        const url =`https://vast-lake-67197.herokuapp.com/comment`
 
         fetch(url, {
             method: "POST",

@@ -4,7 +4,7 @@ import habibur from '../../../images/two.jpg'
 import smith from '../../../images/one.jpg'
 import mark from '../../../images/three.jpg'
 
-const barberData = [
+const barData = [
     {
         name: 'Habibur',
         title: 'Physiologist',
@@ -32,7 +32,7 @@ const Reviews = () => {
                 </div>
                 <div className="row">
                     {
-                        barberData.map(barber => <Review barber={barber} key={barber.name}></Review>)
+                        barData.map(bar => <Review bar={bar} key={bar.name}></Review>)
                     }
                 </div>
             </div>
